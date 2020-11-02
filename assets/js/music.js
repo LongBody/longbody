@@ -23,7 +23,7 @@ $(document).ready(function() {
             Artist: "Tân Anh Hùng Xạ Điêu",
             Song: "Kiếm Hồn Lý Vĩ",
             Album: "Unbreakable",
-            Src: "./music/vietsub_kara_kiem_hon_ly_vi_ost_tan_anh_hung_xa_dieu_2017_-2923910499219994071.mp3"
+            Src: "./music/kiem_hon_ly_vi.mp3"
         },
         {
             Artist: "ĐẳNG Thập Ma Quân",
