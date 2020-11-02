@@ -188,37 +188,3 @@ input[type="range"]:focus {
     left: 0;
     background-color: #000000a1;
 }
-
-.typewriter {
-    display: inline-block;
-}
-
-.typewriter-text {
-    display: inline-block;
-    overflow: hidden;
-    letter-spacing: 2px;
-    animation: typing 2s steps(44, end), blink .75s step-end infinite;
-    white-space: nowrap;
-    font-weight: 700;
-    border-right: 3px solid #bd5d38;
-    box-sizing: border-box;
-}
-
-@keyframes typing {
-    from {
-        width: 0%
-    }
-    to {
-        width: 100%
-    }
-}
-
-@keyframes blink {
-    from,
-    to {
-        border-color: transparent
-    }
-    30% {
-        border-color: #bd5d38;
-    }
-}
