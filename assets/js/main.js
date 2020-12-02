@@ -52,8 +52,8 @@ sr.reveal('.skills__data__library', { interval: 10 });
 sr.reveal('.skills__img', { delay: 10 });
 
 /*SCROLL WORK*/
-sr.reveal('.work__img', { interval: 200 });
+sr.reveal('.work__img', { delay: 10 });
 
 /*SCROLL CONTACT*/
-sr.reveal('.contact__input', { interval: 200 });
-sr.reveal('.award__course', { interval: 200 });
+sr.reveal('.contact__input', { interval: 40 });
+sr.reveal('.award__course', { interval: 40 });
