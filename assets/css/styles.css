@@ -564,6 +564,10 @@ img {
     color: #bd5d38;
 }
 
+.project__link:hover {
+    color: #f04a09;
+}
+
 .project__des {
     color: #6c757d;
     font-size: 15px;
@@ -572,6 +576,10 @@ img {
 .project__demo__link {
     color: #bd5d38;
     margin-bottom: 10px;
+}
+
+.project__demo__link:hover {
+    color: #f04a09;
 }
 
 .icon__award {
