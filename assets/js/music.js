@@ -5,7 +5,7 @@ $(document).ready(function() {
             Artist: "Sơn Tùng MTP",
             Song: "Chúng Ta Của Hiện Tại",
             Album: "Collage",
-            Src: "./music/Sơn Tùng M-TP - Chúng Ta Của Hiện Tại.mp3"
+            Src: "./music/ctcht.mp3"
         },
         {
             Artist: "Đường Cổ",
