@@ -2,8 +2,8 @@ $(document).ready(function() {
     var i = 0;
 
     var Playlist = [{
-            Artist: "Chúng Ta Của Hiện Tại",
-            Song: "Sơn Tùng MTP",
+            Artist: "Sơn Tùng MTP",
+            Song: "Chúng Ta Của Hiện Tại",
             Album: "Collage",
             Src: "./music/Sơn Tùng M-TP - Chúng Ta Của Hiện Tại.mp3"
         },
