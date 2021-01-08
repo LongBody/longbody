@@ -173,6 +173,9 @@ img {
         background-color: var(--second-color);
         transition: .5s;
     }
+    .work__container {
+        margin-top: 35px;
+    }
 }
 
 .nav__item {
@@ -537,6 +540,10 @@ img {
         display: flex;
         justify-content: center;
         justify-items: center;
+    }
+    .work__container {
+        margin-top: 10px;
+        padding-top: 100px;
     }
 }
 
